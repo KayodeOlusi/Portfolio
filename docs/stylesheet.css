@@ -1,0 +1,109 @@
+.home{
+  background-color:rgba(170,172,192,0.5); 
+  height:500px;
+}
+
+.home .container{
+  padding-top: 120px;
+}
+
+.home .container h1,h3{
+  color: #466261;
+  font-weight: bolder;
+}
+
+.home .btn{
+  font-weight: bold;
+  border-color:#000;
+  border-radius: 30px;
+  margin:10px 0px 10px 0px;
+  padding: 10px;
+}
+
+.home .btn:hover{
+  color: #fff;
+  background-color: #000;
+}
+
+.home span a{
+  color: #fff;
+}
+
+.home span a:hover{
+  text-decoration: none;
+}
+
+
+.container h2{
+  font-weight: bolder;
+}
+
+.myTestimonial{
+  background-color:  #e5dfdf;
+}
+
+.card .btn{
+  border-radius: 30px;
+}
+
+.card .btn:hover{
+  color: #000;
+  background-color:#e5dfdf 
+}
+
+#contact-section{
+  padding: 20px;
+}
+
+a #contact-button .btn{
+  border: 2px solid #000;
+  border-radius: 30px;
+}
+
+#contact-section{
+  background-color: #e5dfdf;
+}
+
+footer{
+  font-weight: bolder;
+  text-align: center;
+  background-color: #e5dfdf;
+  padding: 20px;
+}
+
+footer i{
+  padding: 10px;
+}
+
+footer .col-md-6.col-sm-12.col-lg-6{
+  padding: 10px;
+}
+
+footer a:hover{
+  text-decoration: none;
+}
+
+ol.carousel-indicators{
+  left: 0;
+  top: auto;
+  bottom: -70px;
+}
+
+ol.carousel-indicators li{
+  background-color: #000;
+}
+
+ol.carousel-indicators .active{
+  background-color: #000;
+}
+
+ol.carousel-indicators li{
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+}
+
+
+
+
+
