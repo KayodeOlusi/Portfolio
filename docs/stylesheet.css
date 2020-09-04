@@ -26,6 +26,7 @@ a.nav-link.px-4{
 
 .home .btn{
   float:right;
+  background-color: #585656;
   font-weight: bold;
   border-color:#000;
   border-radius: 30px;
