@@ -9,8 +9,10 @@
 }
 
 .home .container h1,h3{
-  color: #466261;
+  font-family:cursive;
+  color: #fff;
   font-weight: bolder;
+  text-align:right;
 }
 
 
@@ -23,6 +25,7 @@ a.nav-link.px-4{
 }
 
 .home .btn{
+  float:right;
   font-weight: bold;
   border-color:#000;
   border-radius: 30px;
