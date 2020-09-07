@@ -15,12 +15,20 @@ body{
   padding-top: 120px;
 }
 
-.home .container h1,h4{
+.home .container h1{
   font-size: 60px;
   font-family: calibri;
   color: #fff;
   font-weight: bolder;
   text-align: center;
+}
+
+
+.home .container h5{
+  color: #9a9898;
+  font-weight: bolder;
+  text-align: right;
+  font-family: calibri;
 }
 
 nav.navbar.navbar-expand-md.navbar-dark.fixed-top{
