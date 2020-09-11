@@ -6,7 +6,7 @@ body{
 .home{
   background-attachment: fixed!important;
   -webkit-background: linear-gradient(45deg,#ffffff,#357e7b,#050a4a);
-  background: linear-gradient(45deg,#fff 35%,#357e7b 20%,#050a4a);
+  background: linear-gradient(45deg,#fff,#357e7b,#050a4a);
   height:500px;
 
 }
@@ -40,14 +40,14 @@ a.nav-link.px-4{
 }
 
 .home .btn{
-  font-size: 20px;
+  font-size: 18px;
   float: right;
   background-color: #585656;
   font-weight: bold;
   border-color:#000;
   border-radius: 30px;
   margin:10px 0px 10px 0px;
-  padding: 10px;
+  padding: 7px;
 }
 
 .home .btn:hover{
