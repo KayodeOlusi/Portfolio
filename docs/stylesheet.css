@@ -25,7 +25,7 @@ body{
 
 
 .home .container h5{
-  color: #9a9898;
+  color: #ffffff;
   font-weight: bolder;
   text-align: right;
   font-family: calibri;
@@ -40,7 +40,7 @@ a.nav-link.px-4{
 }
 
 .home .btn{
-  font-size: 18px;
+  font-size: 20px;
   float: right;
   background-color: #585656;
   font-weight: bold;
